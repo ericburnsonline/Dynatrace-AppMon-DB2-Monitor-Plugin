@@ -2,6 +2,8 @@
 
 ![images_community/download/attachments/83492948/db2-large.png](images_community/download/attachments/83492948/db2-large.png)  
 
+**This was originally created by Eric Burns to win business with a leading global sovereign wealth fund and investment management company.**
+
 The DB2 plugin enables monitoring behavior metrics provided in a DB2 database.The plugin uses JDBC to connect to the DB2 Database and queries key performance metrics. Having these measures in
 dynaTrace enables quick correlation of database related performance issues such as high I/O or too many database connections to application transaction performance problems such as long running
 transactions or slow database queries.
